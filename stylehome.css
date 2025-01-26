@@ -1,0 +1,545 @@
+@media(max-width:600px){
+h1{
+    color: rgb(0, 0, 0);
+    
+    }  
+}
+h1{
+    color: rgb(205, 245, 9);
+    font-style: oblique;
+    justify-self: center;
+    align-items: start;
+    position: relative;
+    left: 0%;
+    font-size: xxx-large;
+
+}
+body{
+    background-image: url(BG.jpg/cellsaga.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+c{
+h1{
+    color:rgb(14, 203, 8);
+    font-style: oblique;
+    justify-self: center;
+    align-items: start;
+    position: relative;
+    left: 40%;
+    font-size: xxx-large;
+}
+}
+
+.saga{
+    color: rgb(14, 203, 8);
+    font-style: oblique;
+    justify-self: center;
+    align-items: start;
+    position: relative;
+    left: 47%;
+    top: -2rem;
+    font-size: x-large;
+}
+
+.cellicon{
+    
+    img{
+        height: 175px;
+        width: 150px;
+    }
+    position: relative;
+    right: -90%;
+    top: -11.5rem;
+}
+
+.vegeta{
+    position: relative;
+    top: -11rem;
+    color: rgb(232, 240, 79);
+}
+
+.vegetap{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 30%;
+    background:  rgba(232, 240, 79, 0.46);
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    position: relative;
+    top: -12rem;
+}
+
+.vegetapic{
+    img{
+        height: 135px;
+    }
+    position: relative;
+    right: -34rem;
+    top: -22rem;
+}
+
+.vegetavid{
+    video{
+        position: relative;
+        top: -26rem;
+    }
+}
+
+.piccoloh{
+    h2{
+    position: relative;
+    top: -23rem;
+    left: -0rem;
+    color: rgba(3, 10, 209, 0.67);;
+    }
+}
+
+.piccolop{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 30%;
+   
+    background: rgba(3, 10, 209, 0.396);
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    position: relative;
+    top: -24rem;
+}
+
+.piccolo{
+    img{
+        height: 135px;
+        position: relative;
+        top: -36rem;
+        left: 33rem;
+    }
+}
+
+.piccolovid{
+    video{
+        position: relative;
+        top: -38rem;
+    }
+}
+
+.cellh{
+    h2{
+        position: relative;
+        top: -34rem;
+        left: -0rem;
+        color: rgba(184, 240, 64, 0.67);;
+        }
+}
+
+.cellp{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 30%;
+    background: rgba(184, 240, 64, 0.475);
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    position: relative;
+    top: -35rem;
+    
+}
+
+.cell{
+    img{
+        height: 135px;
+        position: relative;
+        top: -46rem;
+        left:34rem;
+    }
+}
+
+.cellvid{
+    video{
+        position: relative;
+        top: -49rem;
+    }
+}
+
+.fr{
+    h1{
+        color:rgb(203, 8, 203);
+        font-style: oblique;
+        justify-self: center;
+        align-items: start;
+        position: relative;
+        left: 0%;
+        font-size: xxx-large;
+    }
+    }
+    .fsaga{
+        color: rgb(203, 8, 203);
+        font-style: oblique;
+        justify-self: center;
+        align-items: start;
+        position: relative;
+        left: 0%;
+        top: -2rem;
+        font-size: x-large;
+    }
+    
+    .friezaicon{
+        
+        img{
+            height: 175px;
+            width: 150px;
+        }
+        position: relative;
+        right: -90%;
+        top: -11rem;
+    }
+    
+    .cui{
+        position: relative;
+        top: -11rem;
+        color: rgb(102, 102, 187);
+    }
+    
+    .cuip{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        max-width: 30%;
+        background: rgba(102, 102, 187, 0.437);
+        padding: 1rem 2rem;
+        border-radius: .5rem;
+        position: relative;
+        top: -12rem;
+    }
+    
+    
+    .cuipic{
+        img{
+            height: 135px;
+        }
+        position: relative;
+        right: -34rem;
+        top: -20rem;
+    }
+    
+    .cuivid{
+        video{
+            position: relative;
+            top: -26rem;
+        }
+    }
+    
+    .gohanp{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        max-width: 30%;
+        background: rgba(3, 10, 209, 0.396);
+        padding: 1rem 2rem;
+        border-radius: .5rem;
+        position: relative;
+        top: -24rem;
+    }
+    
+    .gohant{
+        h2{
+        position: relative;
+        top: -23rem;
+        left: -0rem;
+        color: rgba(3, 10, 209, 0.67);;
+        }
+    }
+    
+    .gohan{
+        img{
+            height: 135px;
+            position: relative;
+            top: -36rem;
+            left: 33rem;
+        }
+    }
+    
+    .gohanvid{
+        video{
+            position: relative;
+            top: -38rem;
+        }
+    }
+    
+    .friezah{
+        h2{
+            position: relative;
+            top: -34rem;
+            left: -0rem;
+            color: rgba(184, 240, 64, 0.67);;
+            }
+    }
+    
+    .friezap{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        max-width: 30%;
+        background: rgba(184, 240, 64, 0.475);
+        padding: 1rem 2rem;
+        border-radius: .5rem;
+        position: relative;
+        top: -35rem;
+        
+    }
+    .friezar{
+        img{
+            height: 135px;
+            position: relative;
+            top: -46rem;
+            left:34rem;
+        }
+    }
+    
+    
+    .ssgvid{
+        video{
+            position: relative;
+            top: -49rem;
+        }
+    }
+.friezabg{
+    background-image: url(BG.jpg/namek.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.namek{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 30%;
+    background:purple;
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    position: relative;
+    bottom: -7rem;
+
+}
+
+.homebg{
+    
+    background-image: url(BG.jpg/dbz.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+.frieza{
+    img{
+        height: 175px;
+        width: 125px;
+    };
+    position: relative;
+    left: 40%;
+    top: -7rem;
+    
+}
+
+.cellsaga{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 30%;
+    background:green;
+    padding: 1rem 2rem;
+    border-radius: .5rem;
+    position: relative;
+    top: 0rem;
+}
+
+.cellr{
+    position: relative;
+    left: 40%;
+    top: -13rem;
+
+    img{
+        height: 175px;
+        width: 125px;
+    }
+    
+}
+
+.homeicon{
+    
+    img{
+        height: 175px;
+        width: 150px;
+    }
+    position: relative;
+    left: 90%;
+    top: -60.5rem;
+}
+
+.cellpage{
+    position: relative;
+    top: -47rem;
+    font-size: xx-large;
+    
+}
+
+.friezapage{
+    position: relative;
+    top: -47rem;
+    font-size: xx-large;
+    
+}
+
+
+  
+  .dark-mode {
+    background: black;
+    color: azure;
+    h1{
+        color: azure;
+    }
+    .namek{
+    background:black; 
+    } 
+   .cellsaga{
+    background:black;
+    }
+    .friezabg{
+        background: black;
+    }
+    .gohanp{
+        background: black;
+    }
+    .cuip{
+        background: black;
+    }
+    .cui{
+        color: azure;
+    }
+    .gohant{
+       h2{ color: azure;}
+    }
+    .friezah{
+        h2{ color: azure;}
+     }
+     .friezap{
+        background: black;
+    }
+    .cellpage{a{
+        color: azure;}
+    }
+    .vegeta{
+        h2{
+            color: azure;
+        }
+    }
+    .vegetap{
+        background: black;
+    }
+    .piccoloh{
+        h2{
+            color: azure;
+        }
+    }
+    .piccolop{
+        background: black;
+    }
+    .cellh{
+        h2{
+            color: azure;
+        }
+    }
+    .cellp{
+        background: black;
+    }
+    .friezapage{a{
+        color: azure;}
+    }
+
+}
+
+.gallerypics{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    img{
+     position: relative;
+        bottom: -7rem;
+        width: 400px;
+        height: 300px;
+        border: 2px solid blue;
+        border-radius: 13px;
+        box-shadow: 4px 7px 7px 0px black;
+        cursor: pointer;
+        margin: 10px;
+        transition: 400ms;
+    }
+    img{
+        filter: grays
+    }
+}
+
+
+.galleryicon{
+    
+    
+    img{
+        height: 175px;
+        width: 150px;
+    }
+    position: relative;
+    left: 83rem;
+    bottom: -5;
+}
+
+
+.hgallery{
+    
+    img{
+        height: 190px;
+        width: 200px;
+        position: relative;
+    top: -72rem;
+    left: 9rem;
+    }
+}
+.black{
+
+    position: relative;
+    top: -10rem;
+}
+
+
+.fgallery{
+    
+    img{
+        height: 190px;
+        width: 200px;
+        position: relative;
+    top: -130rem;
+    left: 9rem;
+}
+    }
+    
+    
+.cgallery{
+    
+    img{
+        height: 190px;
+        width: 200px;
+        position: relative;
+    top: -187rem;
+    left: 9rem;
+}
+}
+    
+
+
+
+
